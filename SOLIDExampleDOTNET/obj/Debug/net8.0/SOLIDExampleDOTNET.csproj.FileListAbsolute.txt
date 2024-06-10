@@ -1,0 +1,14 @@
+C:\Users\jacob\source\repos\SOLIDExampleDOTNET\SOLIDExampleDOTNET\bin\Debug\net8.0\SOLIDExampleDOTNET.exe
+C:\Users\jacob\source\repos\SOLIDExampleDOTNET\SOLIDExampleDOTNET\bin\Debug\net8.0\SOLIDExampleDOTNET.deps.json
+C:\Users\jacob\source\repos\SOLIDExampleDOTNET\SOLIDExampleDOTNET\bin\Debug\net8.0\SOLIDExampleDOTNET.runtimeconfig.json
+C:\Users\jacob\source\repos\SOLIDExampleDOTNET\SOLIDExampleDOTNET\bin\Debug\net8.0\SOLIDExampleDOTNET.dll
+C:\Users\jacob\source\repos\SOLIDExampleDOTNET\SOLIDExampleDOTNET\bin\Debug\net8.0\SOLIDExampleDOTNET.pdb
+C:\Users\jacob\source\repos\SOLIDExampleDOTNET\SOLIDExampleDOTNET\obj\Debug\net8.0\SOLIDExampleDOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\SOLIDExampleDOTNET\SOLIDExampleDOTNET\obj\Debug\net8.0\SOLIDExampleDOTNET.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\SOLIDExampleDOTNET\SOLIDExampleDOTNET\obj\Debug\net8.0\SOLIDExampleDOTNET.AssemblyInfo.cs
+C:\Users\jacob\source\repos\SOLIDExampleDOTNET\SOLIDExampleDOTNET\obj\Debug\net8.0\SOLIDExampleDOTNET.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\SOLIDExampleDOTNET\SOLIDExampleDOTNET\obj\Debug\net8.0\SOLIDExampleDOTNET.dll
+C:\Users\jacob\source\repos\SOLIDExampleDOTNET\SOLIDExampleDOTNET\obj\Debug\net8.0\refint\SOLIDExampleDOTNET.dll
+C:\Users\jacob\source\repos\SOLIDExampleDOTNET\SOLIDExampleDOTNET\obj\Debug\net8.0\SOLIDExampleDOTNET.pdb
+C:\Users\jacob\source\repos\SOLIDExampleDOTNET\SOLIDExampleDOTNET\obj\Debug\net8.0\SOLIDExampleDOTNET.genruntimeconfig.cache
+C:\Users\jacob\source\repos\SOLIDExampleDOTNET\SOLIDExampleDOTNET\obj\Debug\net8.0\ref\SOLIDExampleDOTNET.dll
